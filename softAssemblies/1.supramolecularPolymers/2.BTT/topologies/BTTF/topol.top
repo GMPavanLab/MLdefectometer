@@ -1,0 +1,9 @@
+#include "martini_completo.itp"
+#include "B3T.itp"
+
+[ system ]
+1 BTA monca in acqua in water
+
+[ molecules ]
+B3T  96
+W               44016

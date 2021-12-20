@@ -1,0 +1,16 @@
+; Include forcefield parameters
+#include "martini_v2.0_PEO_PS_CNP_new_beads_CC5_CP3_and_DC5_cross_DC5.itp"
+#include "martini_v2.0_solvents.itp"
+#include "Mono_B.itp"
+
+[ system ]
+; Name
+Mono_B x60 as a fiber in cyclohexane
+
+[ molecules ]
+; Compound        #mols
+MOB     60
+CHEX    12063
+
+
+
