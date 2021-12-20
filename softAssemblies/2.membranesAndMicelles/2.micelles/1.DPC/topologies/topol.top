@@ -1,0 +1,13 @@
+; Include forcefield parameters
+#include "martini.itp"
+#include "martini_ions.itp"
+#include "dpc.itp"
+
+[ system ]
+; Name
+fabri fiber in water
+
+[ molecules ]
+; Compound        #mols
+DPC		75
+W                7271

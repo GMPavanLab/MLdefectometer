@@ -1,0 +1,14 @@
+; Include forcefield parameters
+#include "martini.itp"
+#include "martini_ions.itp"
+#include "sds.itp"
+
+[ system ]
+; Name
+fabri fiber in water
+
+[ molecules ]
+; Compound        #mols
+SDS                76
+NA+		   76
+W                6297
