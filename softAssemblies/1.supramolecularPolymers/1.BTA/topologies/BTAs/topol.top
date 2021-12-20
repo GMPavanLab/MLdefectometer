@@ -1,0 +1,9 @@
+#include "martini_with_monticelliPEG.itp"
+#include "bta_P3_dipoles_org.itp"
+
+[ system ]
+160 BTAs in water
+
+[ molecules ]
+BTA	96
+OCT              9802

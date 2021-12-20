@@ -1,0 +1,9 @@
+#include "martini_with_monticelliPEG.itp"
+#include "bta_hbonds.itp"
+
+[ system ]
+160 BTAs in water
+
+[ molecules ]
+BTA	80
+W               16664
